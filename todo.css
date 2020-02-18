@@ -1,0 +1,59 @@
+#main{
+	margin: 110px 0px 0px 450px;	
+	}
+
+#clearCompleted{
+	border-radius: 25px;
+	border: 2px solid ghostwhite;
+	padding: 5px;
+	text-align: center;
+	width: 131px;
+	margin: 0px 0px 0px 73px;
+	}
+
+#clearAll{
+	border-radius: 25px;
+	border: 2px solid ghostwhite;
+	padding: 5px;
+	text-align: center;
+	width: 73px;
+	}
+
+#heading{
+	font-size: xx-large;
+	margin: 0px 0px 0px 135px;
+	color: darkolivegreen;
+	}
+
+#textBox{
+	padding: 15px;
+	}
+
+#add{
+	border-radius: 25px;
+	border: 2px solid ghostwhite;
+	padding: 5px;
+	text-align: center;
+	width: 73px;
+	}
+
+.input{
+	border-radius: 25px;
+	padding: 5px;
+	width: 300px;
+	margin: auto;
+	text-align: center;
+	}
+
+#todos{
+	color: darkolivegreen
+	}
+
+.remove{
+	border-radius: 25px;
+	border: 2px solid ghostwhite;
+	padding: 3px;
+	text-align: center;
+	width: 28px;	
+    transform: rotate(45deg) rotateY(196deg);
+	}
